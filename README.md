@@ -4,3 +4,30 @@
 
 scrapy shell -s USER_AGENT =“” request_url就可以完成带头部的请求添加，如请求知乎（不带标题请求时400错误）：
 scrapy shell -s USER_AGENT =“ Mozilla / 5.0（Windows NT 10.0; Win64; x64 ; rv：61.0）Gecko / 20100101 Firefox / 61.0“ https://www.zhihu.com/question/285908404
+
+
+
+---------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
